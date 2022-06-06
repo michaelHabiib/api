@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+body .container {
+    background-color: rgb(212, 209, 209);
+    padding: 15px;
+    border-radius: 20px;
+}
+body img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+body h2{
+    font-size: 40px;
+    font-weight: bold;
+}
+body .people{
+    font-size: 25px;
+    margin-bottom:15px ;
+}
+body .capital{
+    font-size: 25px;
+}
